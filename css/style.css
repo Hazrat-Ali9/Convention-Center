@@ -47,3 +47,10 @@ body{
     align-items: center;
     justify-content: center;
 }
+
+.nav{
+
+    position: sticky;
+    z-index: 0;
+}
+
